@@ -1,0 +1,10 @@
+.env
+.env.local
+.cache
+.cache.sqlite
+__pycache__/
+*.pyc
+*.pyo
+node_modules/
+.next/
+*.sqlite
